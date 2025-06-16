@@ -11,3 +11,7 @@ OUTPUT OF CTE.sql:
 OUTPUT OF subquery.sql:
 
 ![Image](https://github.com/user-attachments/assets/e5b5f78d-82bd-4bb7-b94c-b95eb605218b)
+
+OUTPUT OF cte_window:
+
+![Image](https://github.com/user-attachments/assets/a3bae5fc-4046-4912-b352-efb0cb7c6eca)
