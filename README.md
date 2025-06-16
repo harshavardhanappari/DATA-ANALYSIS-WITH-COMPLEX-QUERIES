@@ -7,3 +7,7 @@ OUTPUT OF Window function.sql :
 OUTPUT OF CTE.sql:
 
 ![Image](https://github.com/user-attachments/assets/eea6abfa-53ec-4c23-8da9-f1b38907b094)
+
+OUTPUT OF subquery.sql:
+
+![Image](https://github.com/user-attachments/assets/e5b5f78d-82bd-4bb7-b94c-b95eb605218b)
